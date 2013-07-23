@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 .DS_Store
 build.log
 build
 npm-debug.log
 tmp
 .map
+=======
+# Build folder and log file
+build/
+build.log
+>>>>>>> 6316036947510aea9399ada477159797de4c08d0
