@@ -1,0 +1,17 @@
+".container": {
+	backgroundColor: "white"
+},
+"#mapView": {
+	animate: true,
+	height: Ti.UI.FILL,
+	left: 0,
+	mapType: Ti.Map.STANDARD_TYPE,
+	region: {
+		latitudeDelta: 0.02,
+		longitudeDelta: 0.02
+	},
+	regionFit: true,
+	top: 0,
+	userLocation: true,
+	width: Ti.UI.FILL
+}

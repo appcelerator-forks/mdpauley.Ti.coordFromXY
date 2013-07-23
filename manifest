@@ -1,0 +1,9 @@
+#appname:test
+#appid:com.coordFromXY
+#type:ipad
+#guid:39de5dbf-49e9-4956-931e-477126ce4d9b
+#version:1.0
+#publisher:Michael Pauley
+#url:http://micbytes.com
+#image:appicon.png
+#desc:Get the lat and long from a mapview longpress.
